@@ -1,17 +1,17 @@
 # Hand-Gesture-Recogniser
 
 ---
-Author: Pranjal Prabhat 👨‍🔬
+Author: Pranjal Prabhat 
 ---
 
-## What's Diffrent 👀
+## What's Diffrent 
 -Easy acces to recognisation.
 -High level optimization for commercial uses.
 
-## Overview 🖐
+## Overview 
 Hand-Index-Finger_down-Recogniser can be used to recognise wether the index finger tip is close to the base of index finger.
 
-## How to Use 👀
+## How to Use 
 ### Automatic
 #### Run these is cmd to run the file directly:
 ##### Linux
@@ -90,3 +90,4 @@ Note: Use 'esc' key to close window.
 #### 8th argument: Is that is you want output shown on window (default True).
 
 #### 9th, 10th and 11th argument:It is that if you want to show the x , y and z values on window. Only z is set to true.
+
