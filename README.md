@@ -1,7 +1,7 @@
 # Hand-Gesture-Recogniser
 
 ---
-Author: Pranjal Prabhat 
+Author: Anonymus
 ---
 
 ## What's Diffrent 
@@ -90,4 +90,5 @@ Note: Use 'esc' key to close window.
 #### 8th argument: Is that is you want output shown on window (default True).
 
 #### 9th, 10th and 11th argument:It is that if you want to show the x , y and z values on window. Only z is set to true.
+
 
