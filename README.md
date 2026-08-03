@@ -9,7 +9,7 @@ Author: Anonymus
 -High level optimization for commercial uses.
 
 ## Overview 
-Hand-Index-Finger_down-Recogniser can be used to recognise wether the index finger tip is close to the base of index finger.
+Hand-Index-Multi_Finger_Rel_Position-Recogniser can be used to recognise wether the index finger tip is close to the base of index finger.
 
 ## How to Use 
 ### Automatic
