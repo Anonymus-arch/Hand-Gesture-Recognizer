@@ -5,8 +5,8 @@ Author: Anonymus
 ---
 
 ## What's Diffrent 
-1.Easy acces to recognisation.
-2.High level optimization for commercial uses.
+1. Easy acces to recognisation.
+2. High level optimization for commercial uses.
 
 ## Overview 
 Hand-Index-Multi_Finger_Rel_Position-Recogniser can be used to recognise and use the relative closness of finger tip to create gestures and add your own gesture to be recognized
