@@ -9,10 +9,10 @@ Author: Anonymus
 -High level optimization for commercial uses.
 
 ## Overview 
-Hand-Index-Multi_Finger_Rel_Position-Recogniser can be used to recognise wether the index finger tip is close to the base of index finger.
+Hand-Index-Multi_Finger_Rel_Position-Recogniser can be used to recognise and use the relative closness of finger tip to create gestures and add your own gesture to be recognized
 
 ## How to Use 
-### Automatic
+### Automatic way
 #### Run these is cmd to run the file directly:
 ##### Linux
 ```terminal
@@ -61,7 +61,7 @@ hand-gest-test-by-pranjal
 
 #### Note: You can directly run the app from desktop
 
-### Indirect
+### Manual way
 
 1. Get a stable python3 version (3.11.8 recommonded)
 2. Make a python3 Envoirment
