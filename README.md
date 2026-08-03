@@ -5,8 +5,8 @@ Author: Anonymus
 ---
 
 ## What's Diffrent 
-#####Easy acces to recognisation.
-#####High level optimization for commercial uses.
+1.Easy acces to recognisation.
+2.High level optimization for commercial uses.
 
 ## Overview 
 Hand-Index-Multi_Finger_Rel_Position-Recogniser can be used to recognise and use the relative closness of finger tip to create gestures and add your own gesture to be recognized
@@ -88,6 +88,6 @@ Note: Use 'esc' key to close window.
 
 #### 8th argument: Is that is you want output shown on window (default True).
 
-#### 9th, 10th and 11th argument:It is that if you want to show the x , y and z values on window. Only z is set to true.
+#### 9th, 10th and 11th argument: It is so that if you want to show the x , y and z values of finger tips on window. Only z is set to true.
 
 
