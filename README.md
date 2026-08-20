@@ -72,15 +72,15 @@ Note: Use 'esc' key to close window.
 
 ## Customizations
 ### At last the file have a function called recog in it:
-#### 1st argument: Which camera to use (default 0)(computers inbuild camera).
+#### 1st argument: Which camera to use (default 0)(which is computer's inbuild camera).
 
-#### 2nd argument: Is that is you want error is camera not open (default True).
+#### 2nd argument: It is so that, if you want error if camera not open (default True).
 
 #### 3rd argument: What should be the diffrent values for diffrent distance ranges (default [45, 48.4, 50,8,3.5]).
 
-#### 4th argument: Is that is you want error when hand too close or far , i.e out of range (default False).
+#### 4th argument: It is so that, if you want error when hand too close or far , i.e out of range (default False).
 
-#### 5th argument: Is that if you want a window to open to see the results or want to run in backround (default True).
+#### 5th argument: It is so that if, you want a window to open to see the results or want to run in backround (default True).
 
 #### 6th argument: Is to which key to use to close the window(of opencv) (default 27 or esc key).
 
